@@ -1,0 +1,9 @@
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\bin\Debug\TestStackWhiteDemo.exe.config
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\bin\Debug\TestStackWhiteDemo.exe
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\bin\Debug\TestStackWhiteDemo.pdb
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\obj\Debug\TestStackWhiteDemo.csprojResolveAssemblyReference.cache
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\obj\Debug\TestStackWhiteDemo.Form1.resources
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\obj\Debug\TestStackWhiteDemo.Properties.Resources.resources
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\obj\Debug\TestStackWhiteDemo.csproj.GenerateResource.Cache
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\obj\Debug\TestStackWhiteDemo.exe
+D:\JESNY\WPFStudy\TestStackWhiteDemo\TestStackWhiteDemo\obj\Debug\TestStackWhiteDemo.pdb
