@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whiteclass", "Whiteclass\Whiteclass.csproj", "{C63C0AFC-F54D-4E10-BCA6-BE1DD9338E9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7F8013BC-7500-4B1F-8CC5-425081367D26}"
+	ProjectSection(SolutionItems) = preProject
+		Locators.xls = Locators.xls
+		TestAutoConfig.ini = TestAutoConfig.ini
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63C0AFC-F54D-4E10-BCA6-BE1DD9338E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63C0AFC-F54D-4E10-BCA6-BE1DD9338E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63C0AFC-F54D-4E10-BCA6-BE1DD9338E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63C0AFC-F54D-4E10-BCA6-BE1DD9338E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
